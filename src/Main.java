@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        User user1 = new User();
+        User user1 = new User(); //constructor
         user1.id = 1;
         user1.name = "Alice";
 

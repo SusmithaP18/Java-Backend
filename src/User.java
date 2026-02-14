@@ -6,3 +6,4 @@ public class User {
         System.out.println("User: " + id + " - " + name);
     }
 }
+// end of the program
